@@ -1,0 +1,1 @@
+default_app_config = 'cities.apps.CitiesConfig' # необходимо для изменения отобпражения в админке
